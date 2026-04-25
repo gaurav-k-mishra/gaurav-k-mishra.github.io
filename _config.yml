@@ -1,13 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Gaurav Kumar Mishra
+logo: "/images/logo.png?raw=true"
+description: > 
+  MS in Business Analytics @ University of Utah (3.9 GPA) with dual Bachelor's degrees in Economics and Biology.
   <br><br>
-  Second description 
+  5+ years of experience spanning data science, entrepreneurship, biological research, and program management. Passionate about using analytics to solve complex problems at the intersection of business, science, and technology.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/gaurav-mishra1/">View My LinkedIn Profile</a>
+ 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
