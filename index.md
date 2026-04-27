@@ -25,9 +25,9 @@
 
 ### Education
 
-- **MS, Business Analytics** — University of Utah, David Eccles School of Business *(2025–2026, GPA: 3.9)*
-- **BS, Economics** — University of Utah, College of Social & Behavioral Science *(2018–2023, GPA: 3.7)* · Dean's List · Economic Ambassador
-- **BS, Biology** — University of Utah, School of Biological Sciences *(2018–2023, GPA: 3.7)* · Dean's List · Neuroscience Research · Biology TA
+- **MS, Business Analytics** — University of Utah, David Eccles School of Business *(GPA: 3.9)*
+- **BS, Economics** — University of Utah, College of Social & Behavioral Science *(GPA: 3.7)* · Dean's List · Economic Ambassador
+- **BS, Biology** — University of Utah, School of Biological Sciences *(GPA: 3.7)* · Dean's List · Neuroscience Research · Biology TA
 - **Minor, Chemistry** — University of Utah
 
 ---
