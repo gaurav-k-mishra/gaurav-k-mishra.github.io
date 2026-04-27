@@ -7,7 +7,7 @@
 [Machine Learning Projects](https://github.com/gaurav-k-mishra/Machine-Learning-Projects)
 
 ---
-[Spring 2026 MSBA Capstone](https://github.com/gaurav-k-mishra/Spring-2026-MSBA-Capstone)
+[MasterControl Lead Conversion Analysis](https://github.com/gaurav-k-mishra/MasterControl-Lead-Conversion-Analysis)
 
 ---
 [GKM Analytics](https://github.com/gaurav-k-mishra/GKM-Analytics)
