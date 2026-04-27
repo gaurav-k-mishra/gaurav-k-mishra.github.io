@@ -5,19 +5,15 @@
 ### Data Science & Business Analytics
 
 [Machine Learning Projects](https://github.com/gaurav-k-mishra/Machine-Learning-Projects)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Spring 2026 MSBA Capstone](https://github.com/gaurav-k-mishra/Spring-2026-MSBA-Capstone)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [GKM Analytics](https://github.com/gaurav-k-mishra/GKM-Analytics)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [MBSA Team Project](https://github.com/gaurav-k-mishra/MBSA-Team-)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
