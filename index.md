@@ -19,7 +19,7 @@
 
 ### Science & Computational Research
 
-- [Reservoir Computing Research](https://github.com/gaurav-k-mishra/Reservoir-Computing-Research)
+[Reservoir Computing Research](https://github.com/gaurav-k-mishra/Reservoir-Computing-Research)
 
 ---
 
