@@ -17,9 +17,9 @@
 
 ---
 
-### Science & Research Projects
+### Science & Computational Research
 
-- [Starter Projects](https://github.com/gaurav-k-mishra/starter-projects)
+- [Reservoir Computing Research](https://github.com/gaurav-k-mishra/Reservoir-Computing-Research)
 
 ---
 
