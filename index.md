@@ -7,7 +7,7 @@
 [Machine Learning Projects](https://github.com/gaurav-k-mishra/Machine-Learning-Projects)
 
 ---
-[MasterControl Lead Conversion Analysis](https://github.com/gaurav-k-mishra/MasterControl-Lead-Conversion-Analysis)
+[University of Utah Dining Services — Relational Database](https://github.com/gaurav-k-mishra/UofU-Dining-Services-DB)
 
 ---
 [GKM Analytics](https://github.com/gaurav-k-mishra/GKM-Analytics)
