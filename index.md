@@ -1,4 +1,4 @@
-<img width="878" height="791" alt="image" src="https://github.com/user-attachments/assets/98f3705c-e81c-4056-b0fd-78cfd578648b" />## Portfolio
+## Portfolio
 
 ---
 
@@ -27,6 +27,8 @@ Slide decks I authored and taught as **Director of Company Launch** at the Lasso
 - [Milestone 3: Entity Established](Milestone__3__Entity_Established.pptx) — Business structures and forming an LLC
 - [Milestone 4: Funded](Milestone__4__Funded.pptx) — Funding sources from bootstrapping to venture capital
 - [Milestone 5: Revenue Generated](Milestone__5__Revenue_Generated.pptx) — Revenue streams, customer needs, and pricing
+
+---
 
 ### Science & Computational Research
 
