@@ -1,4 +1,4 @@
-## Portfolio
+<img width="878" height="791" alt="image" src="https://github.com/user-attachments/assets/98f3705c-e81c-4056-b0fd-78cfd578648b" />## Portfolio
 
 ---
 
@@ -16,6 +16,17 @@
 [MBSA Team Project](https://github.com/gaurav-k-mishra/MBSA-Team-)
 
 ---
+
+### Company Launch Presentations
+
+Slide decks I authored and taught as **Director of Company Launch** at the Lassonde Entrepreneur Institute, University of Utah.
+
+- [Company Launch Orientation](Company_Launch_Orientation.pptx) — Program overview and team introduction
+- [Milestone 1: Problem & Solution Identified](Milestone__1_Problem___Solution_Identified.pptx) — Defining the core problem, customer insights, and competitive landscape
+- [Milestone 2: Webpage Created](Milestone__2_Webpage_Created.pptx) — Building online presence, design, UX, and SEO fundamentals
+- [Milestone 3: Entity Established](Milestone__3__Entity_Established.pptx) — Business structures and forming an LLC
+- [Milestone 4: Funded](Milestone__4__Funded.pptx) — Funding sources from bootstrapping to venture capital
+- [Milestone 5: Revenue Generated](Milestone__5__Revenue_Generated.pptx) — Revenue streams, customer needs, and pricing
 
 ### Science & Computational Research
 
