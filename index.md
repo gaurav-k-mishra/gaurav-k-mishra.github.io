@@ -10,8 +10,6 @@
 
 [Customer Churn Prediction - ML in R](https://github.com/gaurav-k-mishra/Customer-Churn-Prediction---ML-in-R)
 
-[GKM Analytics](https://github.com/gaurav-k-mishra/GKM-Analytics)
-
 [MBSA Team Project](https://github.com/gaurav-k-mishra/MBSA-Team-)
 
 ### Company Launch Presentations
