@@ -10,7 +10,7 @@
 
 [Customer Churn Prediction - ML in R](https://github.com/gaurav-k-mishra/Customer-Churn-Prediction---ML-in-R)
 
-[MBSA Team Project](https://github.com/gaurav-k-mishra/MBSA-Team-)
+[MasterControl Lead Conversion Analysis](https://github.com/gaurav-k-mishra/MasterControl-Lead-Conversion-Analysis)
 
 ### Company Launch Presentations
 Slide decks I authored and taught as **Director of Company Launch** at the Lassonde Entrepreneur Institute, University of Utah.
