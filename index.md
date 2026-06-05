@@ -21,7 +21,10 @@ Slide decks I authored and taught as **Director of Company Launch** at the Lasso
 - [Milestone 4: Funded](Milestone_4__Funded.pptx) — Funding sources from bootstrapping to venture capital
 - [Milestone 5: Revenue Generated](Milestone_5__Revenue_Generated.pptx) — Revenue streams, customer needs, and pricing
 
-### Science & Computational Research
+### Startups & Independent Projects
+
+#### Refresh Studios — Web design and AI-powered analytics solutions for small and medium-sized businesses
+- [Garage Mahal SLC](https://www.garagemahalslc.com)
 
 [Reservoir Computing Research](https://github.com/gaurav-k-mishra/Reservoir-Computing-Research)
 
