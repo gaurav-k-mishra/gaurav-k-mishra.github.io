@@ -8,7 +8,7 @@
 
 [Home Credit Default Risk — Predictive Modeling](https://github.com/gaurav-k-mishra/Home-Credit-Default-Risk)
 
-[Customer Churn Prediction](https://github.com/gaurav-k-mishra/Customer-Churn-Prediction---ML-in-R)
+[Customer Churn Prediction - ML in R](https://github.com/gaurav-k-mishra/Customer-Churn-Prediction---ML-in-R)
 
 [GKM Analytics](https://github.com/gaurav-k-mishra/GKM-Analytics)
 
