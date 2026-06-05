@@ -26,6 +26,7 @@ Slide decks I authored and taught as **Director of Company Launch** at the Lasso
 #### Refresh Studios — Web design and AI-powered analytics solutions for small and medium-sized businesses
 - [Garage Mahal SLC](https://www.garagemahalslc.com)
 
+#### Computational & Biological Research — Exploring neural computation, dynamical systems, and data-driven science at the University of Utah
 [Reservoir Computing Research](https://github.com/gaurav-k-mishra/Reservoir-Computing-Research)
 
 ### Education
