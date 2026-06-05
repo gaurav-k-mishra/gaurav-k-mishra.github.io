@@ -11,7 +11,6 @@
 ---
 ### Company Launch Presentations
 Slide decks I authored and taught as **Director of Company Launch** at the Lassonde Entrepreneur Institute, University of Utah.
-- [Company Launch Orientation](Company_Launch_Orientation.pptx) — Program overview and team introduction
 - [Milestone 1: Problem & Solution Identified](Milestone_1_Problem__Solution_Identified.pptx) — Defining the core problem, customer insights, and competitive landscape
 - [Milestone 2: Webpage Created](Milestone_2_Webpage_Created.pptx) — Building online presence, design, UX, and SEO fundamentals
 - [Milestone 3: Entity Established](Milestone_3_Entity_Established.pptx) — Business structures and forming an LLC
