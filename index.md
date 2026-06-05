@@ -5,6 +5,8 @@
 ---
 [LA Restaurant Review Analysis — NLP Pipeline](https://github.com/gaurav-k-mishra/LA-Restaurant-Review-Analysis)
 ---
+[Home Credit Default Risk — Predictive Modeling](https://github.com/gaurav-k-mishra/Home-Credit-Default-Risk)
+---
 [Machine Learning Projects](https://github.com/gaurav-k-mishra/Machine-Learning-Projects)
 ---
 [GKM Analytics](https://github.com/gaurav-k-mishra/GKM-Analytics)
